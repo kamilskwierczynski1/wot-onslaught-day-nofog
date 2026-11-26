@@ -10,7 +10,7 @@ Nothing about the map geometry, gameplay or UI is changed. It only swaps lightin
 
 ## Download
 
-**[Download the latest release](../../releases/latest)** (one zip with all files), or grab the `.wotmod` files from the [`mods`](mods) folder.
+**[Download everything as ZIP](https://github.com/kamilskwierczynski1/wot-onslaught-day-nofog/archive/refs/heads/main.zip)**. Unzip it; the 5 `.wotmod` files are in the `mods` folder.
 
 ## Install
 
